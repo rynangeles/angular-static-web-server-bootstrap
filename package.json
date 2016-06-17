@@ -1,0 +1,35 @@
+{
+  "name": "mac-mobile",
+  "version": "1.0.0",
+  "description": "simple business site for mac mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "connect-livereload": "^0.5.4",
+    "grunt": "^1.0.1",
+    "grunt-angular-templates": "^1.0.4",
+    "grunt-concurrent": "^2.3.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-injector": "^1.0.1",
+    "grunt-newer": "^1.2.0",
+    "grunt-ng-annotate": "^2.0.2",
+    "grunt-open": "^0.2.3",
+    "grunt-postcss": "^0.8.0",
+    "grunt-usemin": "^3.1.1",
+    "grunt-wiredep": "^3.0.1",
+    "jit-grunt": "^0.10.0"
+  }
+}

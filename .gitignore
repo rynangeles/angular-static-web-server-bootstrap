@@ -1,0 +1,10 @@
+node_modules
+.tmp
+.sass-cache
+client/bower_components
+*.swp
+*.swo
+*.zip
+*.log
+*.DS_Store
+*.bak
