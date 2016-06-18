@@ -12,7 +12,7 @@
         });
     }
 
-    angular.module('macMobieApp')
+    angular.module('app')
     .config(homeConfig);
 
 })();

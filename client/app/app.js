@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('macMobieApp', [
+angular.module('app', [
   'ngCookies',
   'ngResource',
   'ngSanitize',

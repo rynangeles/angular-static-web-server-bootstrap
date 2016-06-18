@@ -6,7 +6,7 @@
         console.log('from home page');
     }
     
-    angular.module('macMobieApp')
+    angular.module('app')
     .controller('HomeController', HomeController);
 
 })();
