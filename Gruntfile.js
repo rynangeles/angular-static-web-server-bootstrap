@@ -264,7 +264,7 @@ module.exports = function(grunt){
             client: {
                 options: {
                     port: 8080,
-                    base: ['<%= yeoman.dist %>', '.tmp'],
+                    base: ['<%= yeoman.client %>', '.tmp'],
                     livereload: true,
                     open:{
                         target: 'http://localhost:<%= connect.client.options.port %>',
